@@ -1,5 +1,9 @@
 # Note: These requirements are also specified in pyproject.toml
 # This file is kept for development environment setup and compatibility
+fastapi
+uvicorn[standard]
+crawl4ai
+playwright
 aiosqlite~=0.20
 lxml~=5.3
 litellm>=1.53.1
