@@ -1,6 +1,5 @@
 from fastapi import FastAPI
 from crawl4ai import AsyncWebCrawler
-import asyncio
 
 app = FastAPI()
 
